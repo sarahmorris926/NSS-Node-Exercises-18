@@ -1,0 +1,25 @@
+{
+  "name": "NSS-Node-Exercises-18",
+  "version": "1.0.0",
+  "description": "NSS Node.JS Exercises: 18 - HTTP Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahmorris926/NSS-Node-Exercises-18.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahmorris926/NSS-Node-Exercises-18/issues"
+  },
+  "homepage": "https://github.com/sarahmorris926/NSS-Node-Exercises-18#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4",
+    "nodemon": "^1.17.1"
+  }
+}
