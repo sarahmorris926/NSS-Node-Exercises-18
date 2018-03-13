@@ -2,9 +2,10 @@
   "name": "NSS-Node-Exercises-18",
   "version": "1.0.0",
   "description": "NSS Node.JS Exercises: 18 - HTTP Client",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha -R spec --watch"
+    "test": "mocha -R spec --watch",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
